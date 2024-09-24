@@ -930,6 +930,6 @@ Parent Component
 ![parent-comp-evt](https://github.com/mmcodetester/vue-basic-myanmar-version/assets/72187529/15bd6e66-1c47-4218-b3da-b7665a52ac27)
 
 
-## Keep Alive
-<code>KeepAlive</code> 
-
+## Getting Start
+<code>Installation</code> 
+<b> Vue JS ကို install လုပ်ဖို့ဆိုရင် ကို့ရဲ့ Laptopမှာ Node JS (or) Yarn install လုပ်ထားဖို့ လိုအပ်ပါတယ်။ </b>
