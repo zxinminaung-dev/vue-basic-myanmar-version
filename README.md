@@ -936,4 +936,7 @@ Parent Component
 [Node JS](https://nodejs.org/en)<br/>
 [Yarn](https://classic.yarnpkg.com/)<br/>
 <b>IDE  Installation</b><br/>
-IDE ကိုတော့ [Visual Studio Code](https://code.visualstudio.com/download) ကိုသုံးပြီး vue js ကို install ပြုလုပ်မှာဖြစ်ပါတယ်။
+IDE ကိုတော့ [Visual Studio Code](https://code.visualstudio.com/download) ကိုသုံးပြီး vue js ကို install ပြုလုပ်မှာဖြစ်ပါတယ်။၊<br/>
+VSCode ကနေ <bTerminal -> New Terminal ကိုဖွင့်ပါ။</b>
+Termianl မှာ <b>Node JS <b/> အသုံးပြုပါက <b>npm create vue@latest</b><br/>
+            <b>Yarn </b> အသုံးပြုပါက <b> yarn create vue@latest</b>
