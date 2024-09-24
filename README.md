@@ -957,6 +957,11 @@ dependicies တွေ installation လုပ်ပြီးသွားတဲ့
 ပြီတော့ IDE မှ လုပ်ခိုင်းတဲ့အတိုင်း <br/>
 cd မိမိပေးထားသော project name , npm insall ( module installation) ပြုလုပ်ပါ။ Module installation ပြုလုပ်ပြီးသွားတဲ့အခါ မိမိရဲ့ porject folder ထဲမှာ node_modules folder ရောက်လာမှာဖြစ်ပါတယ်။
 
+![npm install](https://github.com/user-attachments/assets/29e83c09-9c0f-424f-bdd0-8d2e1a327bfe)
+
+![Uploading node module.png…]()
+
+
 ## folder explaination
 node_modules - မိမိ install လုပ်ထားတဲ့ dependency တွေဟာ node_module folder ထဲမှာ insatll ပြုလုပ်သွားမှာဖြစ်ပါတယ်။၊ <br/>
 package.json - vue project ပြုလုပ်စဉ်က ကျနော်တို့ရွေးချယ်ထားခဲ့တဲ့ dependancy တွေကိုမှတ်ထားပေးတဲ့ file တစ်ခုဖြစ်သလို vue project run/build ဖို့  run script တွေရေးထားတဲ့ package file လဲ ဖြစ်ပါတယ်။
