@@ -1,4 +1,4 @@
-# VUE JS 
+![image](https://github.com/user-attachments/assets/c649f82a-d1f5-4b37-8973-ce804fac6128)# VUE JS 
 Vue Js ကို Google ရဲ့ Former Engineer တစ်ယောက်ဖြစ်တဲ့ Evan You က create လုပ်ခဲ့ပြီး February 2014 မှာ public ကို release လုပ်ခဲ့တယ်။
 သူက Google မှာ အလုပ်လုပ်နေစဉ် 2013 မှာတည်းက vue js ကို create လုပ်နေခဲ့တယ်။ release လုပ်ပြီးနောက်ပိုင်းမှာ vue js က popular ဖြစ်လာခဲ့ပြီးတော့ UI တွေ Single Page Application တွေ
 create လုပ်တဲ့အခါ အသုံးများတဲ့ Javascript Framework တစ်ခုဖြစ်လာခဲ့တယ်။
@@ -954,5 +954,9 @@ dependicies တွေ installation လုပ်ပြီးသွားတဲ့
 ![installation 3](https://github.com/user-attachments/assets/aa9a4bca-f2c3-49bc-a8fc-837ed4090eb6)
 
 ပြီတော့ IDE မှ လုပ်ခိုင်းတဲ့အတိုင်း <br/>
-cd မိမိပေးထားသော project name , npm insall ( module installation) ပြုလုပ်ပါ။
+cd မိမိပေးထားသော project name , npm insall ( module installation) ပြုလုပ်ပါ။ Module installation ပြုလုပ်ပြီးသွားတဲ့အခါ မိမိရဲ့ porject folder ထဲမှာ node_modules folder ရောက်လာမှာဖြစ်ပါတယ်။
+
+## folder explaination
+node_modules - မိမိ install လုပ်ထားတဲ့ dependency တွေဟာ node_module folder ထဲမှာ insatll ပြုလုပ်သွားမှာဖြစ်ပါတယ်။၊ <br/>
+package.json - vue project ပြုလုပ်စဉ်က ကျနော်တို့ရွေးချယ်ထားခဲ့တဲ့ dependancy တွေကိုမှတ်ထားပေးတဲ့ file တစ်ခုဖြစ်သလို vue project run/build ဖို့  run script တွေရေးထားတဲ့ package file လဲ ဖြစ်ပါတယ်။
 
