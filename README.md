@@ -931,5 +931,9 @@ Parent Component
 
 
 ## Getting Start
-<code>Installation</code> 
-<b> Vue JS ကို install လုပ်ဖို့ဆိုရင် ကို့ရဲ့ Laptopမှာ Node JS (or) Yarn install လုပ်ထားဖို့ လိုအပ်ပါတယ်။ </b>
+<code>Installation</code> <br/>
+<b> Vue JS ကို install လုပ်ဖို့ဆိုရင် ကို့ရဲ့ Laptopမှာ Node JS (or) Yarn install လုပ်ထားဖို့ လိုအပ်ပါတယ်။ </b><br/>
+[Node JS](https://nodejs.org/en)<br/>
+[Yarn](https://classic.yarnpkg.com/)<br/>
+<b>IDE  Installation</b><br/>
+IDE ကိုတော့ [Visual Studio Code](https://code.visualstudio.com/download) ကိုသုံးပြီး vue js ကို install ပြုလုပ်မှာဖြစ်ပါတယ်။
