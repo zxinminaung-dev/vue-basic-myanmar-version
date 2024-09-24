@@ -959,8 +959,9 @@ cd မိမိပေးထားသော project name , npm insall ( module in
 
 ![npm install](https://github.com/user-attachments/assets/29e83c09-9c0f-424f-bdd0-8d2e1a327bfe)
 
-![Uploading node module.png…]()
+![node module](https://github.com/user-attachments/assets/3b94e9bb-6536-4e6a-833d-9e8a46f51014)
 
+ကျနော်တို့ install ပြုလုပ်ထားသော vue, vite, vue-router အပြင်လိုအပ်တဲ့ dependency တွေကိုဟာ node_module foler ထဲမှာရောက်ရှိသွားပြီဖြစ်ပါတယ်။
 
 ## folder explaination
 node_modules - မိမိ install လုပ်ထားတဲ့ dependency တွေဟာ node_module folder ထဲမှာ insatll ပြုလုပ်သွားမှာဖြစ်ပါတယ်။၊ <br/>
