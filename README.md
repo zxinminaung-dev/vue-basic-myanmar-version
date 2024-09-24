@@ -970,3 +970,8 @@ package.json - vue project ပြုလုပ်စဉ်က ကျနော်�
 ![packageJson](https://github.com/user-attachments/assets/0afed132-0408-4cfc-acd9-c894719202c3)
 
 package.json ထဲမှာ depedency များရှိနေတဲ့အတွက်ကြောင့် ကျနော်တို့ဟာ node_module folder ကိုဖျက်မိလိုက်တယ်ဆိုရင်တောင် npm insatll ပြန်လုပ်ပြီး node_module တွေကို ပြန်ယူလို့ရပါတယ်။
+
+#index.html 
+Vue JS ဟာ Single page application ဖြစ်တဲ့အတွက်ကြောင့် index.html file ရဲ့ <code><div id="app"></div></code> ထဲမှာ component တစ်ခုချင်းစီကို အစားထိုးပြီး mount ပြုလုပ်သွားမှာဖြစ်ပါတယ်။
+![index](https://github.com/user-attachments/assets/bceaf877-24eb-4ec8-9162-097cab0acc6d)
+
