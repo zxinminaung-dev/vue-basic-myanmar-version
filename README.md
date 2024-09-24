@@ -963,7 +963,10 @@ cd မိမိပေးထားသော project name , npm insall ( module in
 
 ကျနော်တို့ install ပြုလုပ်ထားသော vue, vite, vue-router အပြင်လိုအပ်တဲ့ dependency တွေကိုဟာ node_module foler ထဲမှာရောက်ရှိသွားပြီဖြစ်ပါတယ်။
 
-## folder explaination
+## Folder explaination
 node_modules - မိမိ install လုပ်ထားတဲ့ dependency တွေဟာ node_module folder ထဲမှာ insatll ပြုလုပ်သွားမှာဖြစ်ပါတယ်။၊ <br/>
 package.json - vue project ပြုလုပ်စဉ်က ကျနော်တို့ရွေးချယ်ထားခဲ့တဲ့ dependancy တွေကိုမှတ်ထားပေးတဲ့ file တစ်ခုဖြစ်သလို vue project run/build ဖို့  run script တွေရေးထားတဲ့ package file လဲ ဖြစ်ပါတယ်။
 
+![packageJson](https://github.com/user-attachments/assets/0afed132-0408-4cfc-acd9-c894719202c3)
+
+package.json ထဲမှာ depedency များရှိနေတဲ့အတွက်ကြောင့် ကျနော်တို့ဟာ node_module folder ကိုဖျက်မိလိုက်တယ်ဆိုရင်တောင် npm insatll ပြန်လုပ်ပြီး node_module တွေကို ပြန်ယူလို့ရပါတယ်။
