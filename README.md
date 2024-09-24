@@ -948,3 +948,11 @@ Termianl မှာ vue install လုပ်ရန် <b> vue install vue@latest<
 enter ခေါက်ပြီးသွားတဲ့အခါ project create လုပ်ဖို့ လိုအပ်တဲ့ dependicies တွေရွေးချယ်ပြီး package ကို install ပြုလုပ်ပါ။
 
 ![installation2](https://github.com/user-attachments/assets/3cabd205-05a0-4adb-8d38-458faa75d05d)
+
+dependicies တွေ installation လုပ်ပြီးသွားတဲ့အခါ အောက်ပါအတိုင်းမြင်ရမှာဖြစ်ပါတယ်။
+
+![installation 3](https://github.com/user-attachments/assets/aa9a4bca-f2c3-49bc-a8fc-837ed4090eb6)
+
+ပြီတော့ IDE မှ လုပ်ခိုင်းတဲ့အတိုင်း <br/>
+cd မိမိပေးထားသော project name , npm insall ( module installation) ပြုလုပ်ပါ။
+
