@@ -930,6 +930,10 @@ Parent Component
 ![parent-comp-evt](https://github.com/mmcodetester/vue-basic-myanmar-version/assets/72187529/15bd6e66-1c47-4218-b3da-b7665a52ac27)
 
 
-## Keep Alive
-<code>KeepAlive</code> 
-
+## Creating VUE JS Application
+<code>Getting Start</code> 
+Requirement - <b>Node JS</b>
+            - <b>NPM or Yarn </b>
+Installation
+    - <b>npm - npm create vue@latest</b>
+    - <b>npm - yarn create vue@latest</b>
